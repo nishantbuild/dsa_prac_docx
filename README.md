@@ -6,6 +6,7 @@ just posting dsa works
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0485-max-consecutive-ones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
