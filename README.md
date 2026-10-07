@@ -23,6 +23,7 @@ just posting dsa works
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -31,5 +32,6 @@ just posting dsa works
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
