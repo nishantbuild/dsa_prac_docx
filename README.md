@@ -16,4 +16,8 @@ just posting dsa works
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
