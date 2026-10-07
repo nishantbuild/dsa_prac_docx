@@ -20,4 +20,16 @@ just posting dsa works
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0006-zigzag-conversion) |
+## Math
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
