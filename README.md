@@ -27,6 +27,7 @@ just posting dsa works
 | [0231-power-of-two](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0342-power-of-four) |
+| [1688-count-of-matches-in-tournament](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1688-count-of-matches-in-tournament) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,4 +43,8 @@ just posting dsa works
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
