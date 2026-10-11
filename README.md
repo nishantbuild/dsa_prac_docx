@@ -9,6 +9,7 @@ just posting dsa works
 | [0035-search-insert-position](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0485-max-consecutive-ones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nishantbuild/dsa_prac_docx/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ just posting dsa works
 | [0326-power-of-three](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0342-power-of-four) |
 | [1688-count-of-matches-in-tournament](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1688-count-of-matches-in-tournament) |
+| [3875-construct-uniform-parity-array-i](https://github.com/nishantbuild/dsa_prac_docx/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
