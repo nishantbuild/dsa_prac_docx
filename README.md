@@ -7,12 +7,14 @@ just posting dsa works
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
 | [0485-max-consecutive-ones](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0485-max-consecutive-ones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishantbuild/dsa_prac_docx/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -49,4 +51,20 @@ just posting dsa works
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1688-count-of-matches-in-tournament) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
