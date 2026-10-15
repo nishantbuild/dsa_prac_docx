@@ -9,6 +9,7 @@ just posting dsa works
 | [0035-search-insert-position](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
 | [0485-max-consecutive-ones](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0485-max-consecutive-ones) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishantbuild/dsa_prac_docx/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -47,6 +48,7 @@ just posting dsa works
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0035-search-insert-position) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Simulation
 |  |
 | ------- |
