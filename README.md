@@ -8,6 +8,7 @@ just posting dsa works
 | ------- |
 | [0035-search-insert-position](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
+| [0179-largest-number](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0179-largest-number) |
 | [0485-max-consecutive-ones](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0485-max-consecutive-ones) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -25,6 +26,7 @@ just posting dsa works
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0006-zigzag-conversion) |
+| [0179-largest-number](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0179-largest-number) |
 ## Math
 |  |
 | ------- |
@@ -69,4 +71,12 @@ just posting dsa works
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
