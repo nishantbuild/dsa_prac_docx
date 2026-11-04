@@ -10,6 +10,7 @@ just posting dsa works
 | [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
 | [0179-largest-number](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0179-largest-number) |
 | [0485-max-consecutive-ones](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0485-max-consecutive-ones) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nishantbuild/dsa_prac_docx/tree/master/3875-construct-uniform-parity-array-i) |
@@ -17,6 +18,7 @@ just posting dsa works
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -79,4 +81,9 @@ just posting dsa works
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0179-largest-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1679-max-number-of-k-sum-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
