@@ -9,6 +9,7 @@ just posting dsa works
 | [0035-search-insert-position](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0037-sudoku-solver) |
 | [0179-largest-number](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0485-max-consecutive-ones) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -32,6 +33,7 @@ just posting dsa works
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0342-power-of-four) |
@@ -86,4 +88,24 @@ just posting dsa works
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1679-max-number-of-k-sum-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
