@@ -11,6 +11,7 @@ just posting dsa works
 | [0179-largest-number](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -24,6 +25,7 @@ just posting dsa works
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -54,6 +56,7 @@ just posting dsa works
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0035-search-insert-position) |
+| [1004-max-consecutive-ones-iii](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1004-max-consecutive-ones-iii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/nishantbuild/dsa_prac_docx/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Simulation
 |  |
@@ -108,4 +111,8 @@ just posting dsa works
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nishantbuild/dsa_prac_docx/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/nishantbuild/dsa_prac_docx/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
